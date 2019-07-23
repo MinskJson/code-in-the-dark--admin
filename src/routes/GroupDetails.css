@@ -1,0 +1,23 @@
+.group-details {
+  background: #ddd;
+  padding: 24px;
+  flex: 1;
+}
+
+.group-details__task {
+  height: 140px;
+  width: 280px;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+.user {
+  border: 4px solid white;
+  padding: 24px;
+  margin: 24px;
+}
+
+.group-details__users {
+  display: flex;
+  flex-wrap: wrap;
+}

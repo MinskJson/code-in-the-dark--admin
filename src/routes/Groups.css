@@ -1,0 +1,16 @@
+.groups {
+  padding: 24px;
+  max-height: 100vh;
+  min-height: 100vh;
+  overflow: auto;
+  box-sizing: border-box;
+}
+
+.room {
+  margin-bottom: 12px;
+  border: 2px solid #ddd;
+}
+
+.room_true {
+  background: greenyellow;
+}
